@@ -1,0 +1,32 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+*.env
+
+# Data and models (do NOT commit large datasets/models)
+data/
+datasets/
+models/
+checkpoints/
+*.pt
+*.pth
+*.h5
+
+# Logs
+logs/
+*.log
